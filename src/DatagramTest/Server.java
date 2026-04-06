@@ -15,6 +15,7 @@ public class Server {
                 if (result.equals("q"))
                     break;
                 System.out.print(result + "\n");
+                System.out.print("-----------------" + "\n");
             }
         }
     }
