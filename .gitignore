@@ -30,3 +30,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/Initializer/.mvn/wrapper/maven-wrapper.properties
+/Initializer/mvnw.cmd
+/Initializer/mvnw
+/src/TCPTest.zip
